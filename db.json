@@ -1,0 +1,361 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "sukumar@gmail.com",
+      "password": "jbit"
+    }
+  ],
+  "posts": [
+    {
+      "name": "Sukumar",
+      "id": "1",
+      "phone": "11223345",
+      "address": "Hyd",
+      "department": "Maintenance"
+    },
+    {
+      "name": "Dhanush",
+      "id": "2",
+      "phone": "1122334455",
+      "address": "Railway kodur",
+      "department": "Developer"
+    },
+    {
+      "name": "hfc",
+      "id": "3",
+      "phone": "8899443344",
+      "address": "railwaykodur",
+      "department": "Maintenance"
+    },
+    {
+      "name": "dangal",
+      "id": "4",
+      "phone": "8899443344",
+      "address": "railwaykodur",
+      "department": "Maintenance"
+    },
+    {
+      "name": "RRR",
+      "id": "5",
+      "phone": "8899443344",
+      "address": "railwaykodur",
+      "department": "Maintenance"
+    },
+    {
+      "name": "Lucky",
+      "id": "6",
+      "phone": "8899443344",
+      "address": "railwaykodur",
+      "department": "Maintenance"
+    },
+    {
+      "name": "Nani",
+      "id": "7",
+      "phone": "8899443344",
+      "address": "railwaykodur",
+      "department": "Maintenance"
+    },
+    {
+      "name": "NTR",
+      "id": "8",
+      "phone": "9900990088",
+      "address": "railwaykodur",
+      "department": "Maintenance"
+    },
+    {
+      "name": "Ramcharan",
+      "id": "9",
+      "phone": "8899443344",
+      "address": "railwaykodur",
+      "department": "Maintenance"
+    },
+    {
+      "name": "AAA",
+      "id": "10",
+      "phone": "8899443344",
+      "address": "railwaykodur",
+      "department": "Maintenance"
+    },
+    {
+      "name": "PAPK",
+      "id": "11",
+      "phone": "8899443344",
+      "address": "HYD",
+      "department": "Maintenance"
+    },
+    {
+      "name": "Tamanna",
+      "id": "12",
+      "phone": "1234567891",
+      "address": "CHITVEL",
+      "department": "Maintenance"
+    },
+    {
+      "name": "Dhoni",
+      "id": "13",
+      "phone": "8899443344",
+      "address": "ranchi",
+      "department": "Developer"
+    },
+    {
+      "name": "raina",
+      "id": "14",
+      "phone": "8899443344",
+      "address": "hyd",
+      "department": "Maintenance"
+    },
+    {
+      "name": "aswin",
+      "id": "15",
+      "phone": "8899443344",
+      "address": "railwaykodur",
+      "department": "Maintenance"
+    },
+    {
+      "name": "jadeja",
+      "id": "16",
+      "phone": "8899443344",
+      "address": "chennai",
+      "department": "Maintenance"
+    },
+    {
+      "name": "dube",
+      "id": "17",
+      "phone": "8899443344",
+      "address": "nellore",
+      "department": "Maintenance"
+    },
+    {
+      "name": "Rayudu",
+      "id": "18",
+      "phone": "8899443344",
+      "address": "railwaykodur",
+      "department": "Maintenance"
+    },
+    {
+      "name": "conway",
+      "id": "19",
+      "phone": "8899443344",
+      "address": "amalapuram",
+      "department": "Maintenance"
+    },
+    {
+      "name": "pathirana",
+      "id": "20",
+      "phone": "8899443344",
+      "address": "sri lanka",
+      "department": "Maintenance"
+    },
+    {
+      "name": "chahar",
+      "id": "21",
+      "phone": "8899443344",
+      "address": "kadapa",
+      "department": "Maintenance"
+    },
+    {
+      "name": "Rahane",
+      "id": "22",
+      "phone": "8899443344",
+      "address": "ameriaca",
+      "department": "Maintenance"
+    },
+    {
+      "name": "Rohit",
+      "id": "23",
+      "phone": "8899443344",
+      "address": "mumbai",
+      "department": "Maintenance"
+    },
+    {
+      "name": "kishan",
+      "id": "24",
+      "phone": "8899443344",
+      "address": "mumbai",
+      "department": "Maintenance"
+    },
+    {
+      "name": "sky",
+      "id": "25",
+      "phone": "8899443344",
+      "address": "bangalore",
+      "department": "Maintenance"
+    },
+    {
+      "name": "miller",
+      "id": "26",
+      "phone": "8899443344",
+      "address": "hyd",
+      "department": "Maintenance"
+    },
+    {
+      "name": "pandya",
+      "id": "27",
+      "phone": "8899443344",
+      "address": "gujarath",
+      "department": "Maintenance"
+    },
+    {
+      "name": "hardik",
+      "id": "28",
+      "phone": "1122334455",
+      "address": "Railway kodur",
+      "department": "Maintenance"
+    },
+    {
+      "name": "rashid",
+      "id": "29",
+      "phone": "1122334455",
+      "address": "Railway kodur",
+      "department": "Developer"
+    },
+    {
+      "name": "bhuvi",
+      "id": "30",
+      "phone": "1122334455",
+      "address": "Railway kodur",
+      "department": "Developer"
+    },
+    {
+      "name": "jaiswal",
+      "id": "31",
+      "phone": "1122334455",
+      "address": "Railway kodur",
+      "department": "Developer"
+    },
+    {
+      "name": "virat",
+      "id": "32",
+      "phone": "1122334455",
+      "address": "Railway kodur",
+      "department": "Developer"
+    },
+    {
+      "name": "thakur",
+      "id": "33",
+      "phone": "1122334455",
+      "address": "Railway kodur",
+      "department": "Developer"
+    },
+    {
+      "name": "dj bravo",
+      "id": "34",
+      "phone": "1122334455",
+      "address": "Railway kodur",
+      "department": "Developer"
+    },
+    {
+      "name": "brathwhite",
+      "id": "35",
+      "phone": "1122334455",
+      "address": "Railway kodur",
+      "department": "Developer"
+    },
+    {
+      "name": "abd",
+      "id": "36",
+      "phone": "1122334455",
+      "address": "Railway kodur",
+      "department": "Developer"
+    },
+    {
+      "name": "gill",
+      "id": "37",
+      "phone": "1122334455",
+      "address": "Railway kodur",
+      "department": "Developer"
+    },
+    {
+      "name": "head",
+      "id": "38",
+      "phone": "1122334455",
+      "address": "Railway kodur",
+      "department": "Developer"
+    },
+    {
+      "name": "starc",
+      "id": "39",
+      "phone": "1122334455",
+      "address": "Railway kodur",
+      "department": "Developer"
+    },
+    {
+      "name": "marsh",
+      "id": "40",
+      "phone": "1122334455",
+      "address": "Railway kodur",
+      "department": "Developer"
+    },
+    {
+      "name": "Gaikwad",
+      "id": "41",
+      "phone": "1122334455",
+      "address": "Railway kodur",
+      "department": "Developer"
+    },
+    {
+      "name": "moin ali",
+      "id": "42",
+      "phone": "1122334455",
+      "address": "Railway kodur",
+      "department": "Developer"
+    },
+    {
+      "name": "Rishi dhawan",
+      "id": "43",
+      "phone": "1122334455",
+      "address": "Railway kodur",
+      "department": "Developer"
+    },
+    {
+      "name": "shikar dawan",
+      "id": "44",
+      "phone": "1122334455",
+      "address": "Railway kodur",
+      "department": "Developer"
+    },
+    {
+      "name": "rahul",
+      "id": "45",
+      "phone": "1122334455",
+      "address": "Railway kodur",
+      "department": "Developer"
+    },
+    {
+      "name": "buttler",
+      "id": "46",
+      "phone": "1122334455",
+      "address": "Railway kodur",
+      "department": "Developer"
+    },
+    {
+      "name": "samson",
+      "id": "47",
+      "phone": "1122334455",
+      "address": "Railway kodur",
+      "department": "Developer"
+    },
+    {
+      "name": "boult",
+      "id": "48",
+      "phone": "1122334455",
+      "address": "Railway kodur",
+      "department": "Developer"
+    },
+    {
+      "name": "styen",
+      "id": "49",
+      "phone": "1122334455",
+      "address": "Railway kodur",
+      "department": "Developer"
+    },
+    {
+      "name": "KING",
+      "id": "50",
+      "phone": "1122334455",
+      "address": "Railway kodur",
+      "department": "Developer"
+    }
+  ]
+}
